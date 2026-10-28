@@ -45,3 +45,8 @@ Geometry Dash compiled to the web. Do not play unless you actually own the game.
   - event listener for starting the game?
   - more web page element stuff
   - more key and input event listener stuff
+### sw.js
+- (1)
+  - a couple of event listeners for "install" and "activate"
+- "fetch"
+  - I'm done bruh
