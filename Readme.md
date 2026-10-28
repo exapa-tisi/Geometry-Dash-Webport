@@ -37,4 +37,11 @@ Geometry Dash compiled to the web. Do not play unless you actually own the game.
   - gd progress tick? speed hack stuff?
   - (510) idk
   - restore saves
-  - more later imma play deadlocked.
+- (658)
+  - actually start the game
+  - moves stuff upwards
+  - loadModule
+  - loads gd_web.js, and throws it into a new script element
+  - event listener for starting the game?
+  - more web page element stuff
+  - more key and input event listener stuff
